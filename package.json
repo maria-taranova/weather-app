@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tmaria.github.io/tmaria",
+  "homepage": "https://tmaria.github.com/weather-app",
   "xo": {
     "extend": [
       "tidy",
@@ -29,6 +29,7 @@
     "eslint-config-tidy": "^0.6.4",
     "eslint-config-tidy-react": "^0.3.0",
     "eslint-plugin-react": "^7.8.2",
+    "gh-pages": "^1.1.0",
     "purify-css": "^1.2.5"
   }
 }
