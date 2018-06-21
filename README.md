@@ -1,3 +1,5 @@
+<p>Check the project at <a href="https://maria-taranova.github.io/weather-app">Weather App</a></p>
+
 <h2>Stack</h2>
 <ul>
 <li>React. This project was bootstrapped with Create React App.</li>
